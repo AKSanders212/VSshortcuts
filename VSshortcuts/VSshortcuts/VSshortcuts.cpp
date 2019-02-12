@@ -9,6 +9,7 @@ void Shortcuts()
 	do {
 		LOG("Here a few helpful windows commands to use in Visual Studio Community 2017!");
 		LOG("Some commands may or may not require Shift as a part of their combination to use." << "\n");
+		LOG("---------------------------------------------------------------------------------");
 		LOG("Use f12 at your cursor to go to that definition.");
 		LOG("Ctrl + q = Quick Launch.");
 		LOG("Ctrl + Shift + enter = Toggle on/off full screen.");
